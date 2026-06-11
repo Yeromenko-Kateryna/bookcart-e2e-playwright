@@ -1,0 +1,23 @@
+{
+  "name": "bookcart-e2e-playwright",
+  "version": "1.0.0",
+  "description": "End-to-end automated tests for BookCart online bookstore using Playwright and TypeScript.\r This project is based on the Roadmap.sh QA project:\r https://roadmap.sh/projects/e2e-test-ecommerce-app",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeromenko-Kateryna/bookcart-e2e-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Yeromenko-Kateryna/bookcart-e2e-playwright/issues"
+  },
+  "homepage": "https://github.com/Yeromenko-Kateryna/bookcart-e2e-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
