@@ -184,6 +184,3 @@ Through this project I gained practical experience with:
 * API Investigation using Swagger
 * Bug Analysis and Defect Verification
 * Test Documentation
-
-```
-```
