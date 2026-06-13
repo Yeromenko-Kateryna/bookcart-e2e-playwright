@@ -125,6 +125,10 @@ Example result:
 9 passed (8.1s)
 ```
 
+## Test Execution Example
+
+![Test Results](screenshots/all-tests-passed.png)
+
 ---
 
 ## Known Issue
@@ -167,6 +171,9 @@ tests/
 │
 └── search.spec.ts
     └── Search Field Validation
+
+screenshots/
+└── all-tests-passed.png
 ```
 
 ---
