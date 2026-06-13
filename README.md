@@ -15,9 +15,9 @@ The project covers:
 * User Registration
 * User Login
 * Search Field Validation
-* Cross-browser testing
-* Git and GitHub workflow
-* Test execution using Playwright
+* Cross-browser Testing
+* Git and GitHub Workflow
+* Test Execution using Playwright
 
 ---
 
@@ -122,12 +122,14 @@ All implemented tests successfully pass in:
 Example result:
 
 ```text
-9 passed (8.1s)
+9 executions passed across Chromium, Firefox and WebKit
 ```
+
+---
 
 ## Test Execution Example
 
-![Test Results](screenshots/all-tests-passed.png)
+![Playwright Test Results](screenshots/all-tests-passed.png)
 
 ---
 
